@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Dania 👋</h1>
-<h3 align="center">Junior Frontend Developer | React & Tailwind CSS</h3>
+<h1 >
+  Hi, I'm Dania 👋
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+</h1>
+<h3 >computer engineering, Junior Frontend Developer | React & Tailwind CSS Passionate about learning  programming.
+ </h3>
 
 ---
 
@@ -11,7 +15,8 @@ I enjoy learning new technologies, solving problems, and creating beautiful UI c
 
 ---
 
-### 📫 Contact Me  
+### <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="50px" />
+ Contact Me  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
