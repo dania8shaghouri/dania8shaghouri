@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="50px" style="margin-top:10px;"/>
+  <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="50px" style="margin-top:-10px;"/>
     Hi, I'm Dania 
 </h1>
 
