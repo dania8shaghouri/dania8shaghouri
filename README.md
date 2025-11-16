@@ -13,7 +13,7 @@
 
 <h1>
   Contact Me
-  <img src="https://media1.tenor.com/m/InE_gkwqdFUAAAAC/cute-cute-hi.gif" width="50px" />
+  <img src="https://media1.tenor.com/m/InE_gkwqdFUAAAAC/cute-cute-hi.gif" width="40px" />
 </h1>
 
  
