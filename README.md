@@ -1,7 +1,8 @@
-<h1 >
+<h1>
   Hi, I'm Dania 
-  <img src-"https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true"  width="30px" />
+  <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="30px" />
 </h1>
+
 <h3 >computer engineering, Junior Frontend Developer | React & Tailwind CSS Passionate about learning  programming.
  </h3>
 
