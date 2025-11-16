@@ -2,7 +2,7 @@
   
   <h1 style="margin: 0;">
     <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="60px" />
-    Hi, I'm Dania </h1>
+    <span>Hi, I'm Dania</span> </h1>
 </div>
 
 
