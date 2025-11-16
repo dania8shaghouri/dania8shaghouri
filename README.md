@@ -4,11 +4,10 @@
   <span style="display: inline-block; transform: translateY(-25px);">Hi, I'm Dania</span>
 </h1> 
 
-<h3 >computer engineering, Junior Frontend Developer
+<h3 >Computer Engineering, Junior Frontend Developer <br>
  Passionate about learning  programming.
  </h3>
 
----
 
 ### 🌱 About Me
 I am a Junior Frontend Developer focused on building clean, responsive and modern web applications.  
