@@ -1,6 +1,6 @@
 <h1 >
   Hi, I'm Dania 
-  <img [src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://lottie.host/3342cd50-c7d5-48a8-878f-3074ddb2f5c2/HwJzzk3qyB.lottie)" width="30px" />
+  <img https://lottie.host/3342cd50-c7d5-48a8-878f-3074ddb2f5c2/HwJzzk3qyB.lottie" width="30px" />
 </h1>
 <h3 >computer engineering, Junior Frontend Developer | React & Tailwind CSS Passionate about learning  programming.
  </h3>
