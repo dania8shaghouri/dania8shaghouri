@@ -4,12 +4,8 @@
   <span style="display: inline-block; transform: translateY(-25px);">Hi, I'm Dania</span>
 </h1> 
 
-
-
-
-
-
-<h3 >computer engineering, Junior Frontend Developer | React & Tailwind CSS Passionate about learning  programming.
+<h3 >computer engineering, Junior Frontend Developer
+ Passionate about learning  programming.
  </h3>
 
 ---
