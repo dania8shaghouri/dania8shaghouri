@@ -15,11 +15,11 @@ I enjoy learning new technologies, solving problems, and creating beautiful UI c
 
 ---
 
-<h1 >
-  Contact Me   
-<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://media1.tenor.com/m/InE_gkwqdFUAAAAC/cute-cute-hi.gif)" width="30px" />
-
+<h1>
+  Contact Me
+  <img src="https://media1.tenor.com/m/InE_gkwqdFUAAAAC/cute-cute-hi.gif" width="30px" />
 </h1>
+
  
 <p align="left">
 <a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
