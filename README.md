@@ -1,12 +1,9 @@
 
-<!-- <h1 style="margin: 0; display: flex; align-items: flex-start; gap: 10px;">
+ <h1 style="margin: 0; display: flex; align-items: flex-start; gap: 10px;">
   <img src="HiHello.gif" width="60px" />
   <span style="display: inline-block; transform: translateY(-25px);">Hi, I'm Dania</span>
-</h1> -->
-<h1 style="margin: 0; display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" style="margin-bottom:100px"/>
-  <span>Hi, I'm Dania</span>
-</h1>
+</h1> 
+
 
 
 
