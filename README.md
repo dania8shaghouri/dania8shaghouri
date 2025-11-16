@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dania 👋</h1>
-<h3 align="center">Junior Frontend Developer | React & Tailwind CSS</h3>
+<h1>Hi, I'm Dania 👋</h1>
+<h3 >Junior Frontend Developer | React & Tailwind CSS</h3>
 
 ---
 
