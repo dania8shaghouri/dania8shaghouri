@@ -15,7 +15,7 @@ I enjoy learning new technologies, solving problems, and creating beautiful UI c
 
 ---
 
- <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="50px" />
+
  Contact Me  
 
 <p align="left">
