@@ -1,7 +1,7 @@
 
   
   <h1 style="margin: 0;">
-    <img src="RobotSaludando.gif" width="60px" />
+    <img src="HiHello.gif" width="60px" />
     <span style="padding-bottom: 5px;">Hi, I'm Dania</span> </h1>
 
 
