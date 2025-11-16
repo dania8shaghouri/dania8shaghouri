@@ -1,9 +1,8 @@
- <div>
-     <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="35px" />
-<h1>
-    Hi, I'm Dania 
-</h1>
- </div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/dania8shaghouri/dania8shaghouri/blob/main/Cute%20Robot.gif?raw=true" width="50px" />
+  <h1 style="margin: 0;">Hi, I'm Dania</h1>
+</div>
+
 <h3 >computer engineering, Junior Frontend Developer | React & Tailwind CSS Passionate about learning  programming.
  </h3>
 
