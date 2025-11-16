@@ -7,17 +7,9 @@
 <h3 >Computer Engineering, Junior Frontend Developer 💻 <br>
  </h3>
  <h3 >
- Passionate about learning  programming.
+ Passionate about learning  programming 🚀
  </h3>
 
-
-### 🌱 About Me
-I am a Junior Frontend Developer focused on building clean, responsive and modern web applications.  
-Currently improving myself in **React**, **Tailwind CSS**, **API integrations**, and **Redux Toolkit**.
-
-I enjoy learning new technologies, solving problems, and creating beautiful UI components.
-
----
 
 <h1>
   Contact Me
