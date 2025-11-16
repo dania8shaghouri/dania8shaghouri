@@ -1,8 +1,8 @@
 
-  
-  <h1 style="margin: 0;">
-    <img src="HiHello.gif" width="60px" />
-    <span style="padding-bottom: 5px;">Hi, I'm Dania</span> </h1>
+<h1 style="margin: 0; display: flex; align-items: flex-start; gap: 10px;">
+  <img src="HiHello.gif" width="60px" />
+  <span style="display: inline-block; transform: translateY(-5px);">Hi, I'm Dania</span>
+</h1>
 
 
 
