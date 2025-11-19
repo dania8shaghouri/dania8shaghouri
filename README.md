@@ -23,7 +23,8 @@
 <a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="40px" />
+
 
 
 <a href="https://dania-portfolio1.netlify.app/" target="_blank">
