@@ -4,7 +4,7 @@
   <span style="display: inline-block; transform: translateY(-25px);">Hi, I'm Dania</span>
 </h1> 
 
-<h3 >💻Computer Engineering, Junior Frontend Developer  <br>
+<h3 >💻computer engineer, Junior Frontend Developer  <br>
  </h3>
  <h3 >
  🚀Passionate about learning  programming 
