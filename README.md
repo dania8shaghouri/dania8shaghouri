@@ -7,7 +7,7 @@
 <h3 >💻Computer Engineer, Junior Frontend Developer  <br>
  </h3>
  <h3 >
- 🚀Passionate about learning  programming 
+ 🚀Passionate about Learning  Programming 
  </h3>
 
 
