@@ -1,61 +1,87 @@
-
- <h1 style="margin: 0; display: flex; align-items: flex-start; gap: 10px;">
-  <img src="HiHello.gif" width="60px" />
-  <span style="display: inline-block; transform: translateY(-25px);">Hi, I'm Dania</span>
-</h1> 
-
-<h3 >💻Computer Engineer, Junior Frontend Developer  <br>
- </h3>
- <h3 >
- 🚀Passionate about Learning  Programming 
- </h3>
-
-
-<h1>
- 
-  <!-- <img src="https://media1.tenor.com/m/InE_gkwqdFUAAAAC/cute-cute-hi.gif" width="40px" /> -->
- <img src="Cute Robot.gif" width="50px" />
-  Contact Me
+```md
+<h1 align="center">
+  <img src="HiHello.gif" width="55" />
+  Hi, I'm Dania Shaghouri
 </h1>
 
- 
-<p align="left">
-<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
-</a>
+<h3 align="center">
+Computer Engineer • Full-Stack Web Developer
+</h3>
 
+<p align="center">
+Building modern web applications with React, TypeScript, Node.js, Express.js and MongoDB.
+</p>
 
-<a href="https://dania-portfolio1.netlify.app/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dania-portfoli.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40"/>
+## 👩‍💻 About Me
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40"/> -->
-</p>
-<!-- <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
-</p> -->
-<!-- <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-</p> -->
+I'm a Computer Engineer focused on building modern full-stack web applications with React, TypeScript, Node.js, Express.js and MongoDB.
+
+I enjoy creating responsive user interfaces, developing RESTful APIs, implementing authentication systems, and writing clean, maintainable code while continuously improving my skills through real-world projects.
 
 ---
 
+## 🚀 Currently Working On
+
+- 🛒 Full-Stack E-Commerce Platform
+- ⚛️ React & TypeScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🎨 Tailwind CSS
+
+---
+
+## 📌 Featured Project
+
+### 🛒 Full-Stack E-Commerce Application
+
+A modern e-commerce application built with React, TypeScript, Node.js, Express.js and MongoDB.
+
+**Features**
+
+- JWT Authentication
+- Role-Based Authorization
+- Product Management
+- Shopping Cart
+- Stripe Payment Integration
+- RESTful API
+- Responsive UI
+
+🔗 Repository: https://github.com/dania8shaghouri/e-commerce
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://dania-portfoli.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/dania-shaghouri-b4250b304/
+- 📧 Email: daniashaghouri@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dania8shaghouri&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dania8shaghouri&layout=compact&theme=transparent" />
+</p>
+```
