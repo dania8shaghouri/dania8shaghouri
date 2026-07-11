@@ -1,10 +1,21 @@
 
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:61DAFB&text=Dania%20Shaghouri&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&animation=twinkling"/>
+  <img src="assets/banner.svg" width="100%" alt="Dania Shaghouri Banner">
 </p>
 
-<h3 align="center">Computer Engineer • Full-Stack Web Developer</h3>
+<h1 align="center">
+  Hi, I'm Dania Shaghouri 👋
+</h1>
+
+<h3 align="center">
+  Computer Engineer • Full-Stack Web Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=900&lines=Building+software+with+purpose.;Designing+responsive+web+applications.;Developing+RESTful+APIs.;Always+learning.+Always+building." />
+</p>
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=950&lines=Building+software+with+purpose.;Turning+ideas+into+real+products.;Creating+responsive+and+modern+web+experiences.;Always+learning.+Always+building."/>
