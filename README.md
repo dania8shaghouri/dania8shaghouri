@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Dania Shaghouri Banner"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+software+with+purpose.;Creating+modern+full-stack+web+applications.;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB.;Always+learning.+Always+building." />
