@@ -1,18 +1,10 @@
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Dania Shaghouri Banner">
+  <img src="assets/banner.svg" width="100%" alt="Dania Shaghouri Banner"/>
 </p>
 
-<h1 align="center">
-  Hi, I'm Dania Shaghouri 👋
-</h1>
-
-<h3 align="center">
-  Computer Engineer • Full-Stack Web Developer
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=900&lines=Building+software+with+purpose.;Designing+responsive+web+applications.;Developing+RESTful+APIs.;Always+learning.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=900&lines=Building+software+with+purpose.;Turning+ideas+into+real+products.;Creating+responsive+web+applications.;Always+learning.+Always+building." />
 </p>
 
 ---
