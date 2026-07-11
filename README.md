@@ -16,26 +16,41 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" />
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,vue,tailwind,html,css,js" />
 </p>
 
-### Backend
+</td>
 
-<p>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<td valign="top" width="33%">
+
+### 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🐍 Contribution Snake
@@ -46,20 +61,18 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="mailto:daniashaghouri@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/">
+<img src="https://img.shields.io/badge/LinkedIn-Dania%20Shaghouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
 <a href="https://dania-portfoli.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
