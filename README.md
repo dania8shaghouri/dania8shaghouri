@@ -75,31 +75,7 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 
 </p>
 ---
-## 🤝 Let's Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<br><br>
-
-<a href="https://dania-portfoli.netlify.app">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304"><b>LinkedIn</b></a>
-
-•
-
-<a href="https://dania-portfoli.netlify.app"><b>Portfolio</b></a>
-
-</p>
 ---
 ## 🤝 Let's Connect
 
