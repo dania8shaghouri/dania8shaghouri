@@ -1,6 +1,4 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E3A8A,70:2563EB,100:61DAFB&text=Dania%20Shaghouri&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&animation=fadeIn"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Dania Shaghouri</h1>
 
@@ -73,16 +71,16 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304">
-<img src="https://img.shields.io/badge/LinkedIn-Dania%20Shaghouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://dania-portfoli.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://dania-portfoli.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
