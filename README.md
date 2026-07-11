@@ -1,6 +1,22 @@
 
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Dania%20Shaghouri&fontColor=ffffff&fontSize=48&desc=Computer%20Engineer%20•%20Full-Stack%20Web%20Developer&descAlignY=62"/>
+</p>
 
+---
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:0F172A,100:1E293B&text=Dania%20Shaghouri&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Computer%20Engineer%20•%20Full-Stack%20Web%20Developer&descAlignY=63"/>
+</p>
+---
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,100:0F172A&text=Dania%20Shaghouri&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Computer%20Engineer%20•%20Full-Stack%20Web%20Developer&descAlignY=63"/>
+</p>
+---
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,100:111827&text=Dania%20Shaghouri&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Computer%20Engineer%20•%20Full-Stack%20Web%20Developer&descAlignY=63"/>
+</p>
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+software+with+purpose.;Creating+modern+full-stack+web+applications.;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB.;Always+learning.+Always+building." />
 </p>
