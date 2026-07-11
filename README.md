@@ -61,7 +61,21 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dania-portfoli.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+---
+## 🤝 Let's Connect
 
 <p align="center">
 
@@ -69,10 +83,38 @@ I enjoy creating responsive user interfaces, developing RESTful APIs, implementi
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <a href="https://dania-portfoli.netlify.app">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304"><b>LinkedIn</b></a>
+
+•
+
+<a href="https://dania-portfoli.netlify.app"><b>Portfolio</b></a>
+
+</p>
+---
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dania-shaghouri-b4250b304">
+<img src="https://img.shields.io/badge/LinkedIn-Dania%20Shaghouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://dania-portfoli.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
