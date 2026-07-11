@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <defs>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#61DAFB" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dotGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#61DAFB" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#61DAFB" flood-opacity="0.15" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="lineGlow" x="-2%" y="-50%" width="104%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#61DAFB" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="#0F172A"/>
+
+  <!-- Background code text at 5% opacity -->
+  <g opacity="0.05" fill="#ffffff" font-family="'Courier New', monospace" font-size="13">
+    <text x="30" y="40">const build = () => {</text>
+    <text x="30" y="60">  const idea = "inspiration";</text>
+    <text x="30" y="80">  const code = "passion";</text>
+    <text x="30" y="100">  const purpose = "impact";</text>
+    <text x="30" y="120">  return idea + code + purpose;</text>
+    <text x="30" y="140">}</text>
+    <text x="400" y="55">import React from 'react';</text>
+    <text x="400" y="75">import { useState } from 'react';</text>
+    <text x="400" y="95">const App = () => {</text>
+    <text x="400" y="115">  const [state, setState] = useState(null);</text>
+    <text x="400" y="135">  return &lt;Component /&gt;;</text>
+    <text x="400" y="155">}</text>
+    <text x="750" y="40">async function fetchData() {</text>
+    <text x="750" y="60">  const res = await fetch('/api');</text>
+    <text x="750" y="80">  const data = await res.json();</text>
+    <text x="750" y="100">  return data;</text>
+    <text x="750" y="120">}</text>
+    <text x="30" y="200">export default function handler(req, res) {</text>
+    <text x="30" y="220">  const { method } = req;</text>
+    <text x="30" y="240">  if (method === 'GET') {</text>
+    <text x="30" y="260">    return res.status(200).json({ success: true });</text>
+    <text x="30" y="280">  }</text>
+    <text x="30" y="300">}</text>
+    <text x="500" y="220">const schema = new Schema({</text>
+    <text x="500" y="240">  name: { type: String, required: true },</text>
+    <text x="500" y="260">  email: { type: String, unique: true },</text>
+    <text x="500" y="280">  createdAt: { type: Date, default: Date.now }</text>
+    <text x="500" y="300">});</text>
+    <text x="850" y="200">interface Props {</text>
+    <text x="850" y="220">  title: string;</text>
+    <text x="850" y="240">  children: React.ReactNode;</text>
+    <text x="850" y="260">  onClick?: () =&gt; void;</text>
+    <text x="850" y="280">}</text>
+    <text x="30" y="340">// Building the future, one commit at a time</text>
+    <text x="500" y="340">module.exports = { config, plugins };</text>
+    <text x="850" y="340">type Result = Success | Error;</text>
+    <text x="30" y="370">const deploy = async () =&gt; await build();</text>
+    <text x="500" y="370">return { ...state, loading: false };</text>
+  </g>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.03" stroke="#61DAFB" stroke-width="0.5">
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="400"/>
+    <line x1="600" y1="0" x2="600" y2="400"/>
+    <line x1="900" y1="0" x2="900" y2="400"/>
+  </g>
+
+  <!-- Decorative thin lines -->
+  <g opacity="0.08" stroke="#61DAFB" stroke-width="0.5">
+    <line x1="50" y1="50" x2="350" y2="50"/>
+    <line x1="800" y1="350" x2="1150" y2="350"/>
+    <line x1="700" y1="80" x2="700" y2="320"/>
+  </g>
+
+  <!-- Small blue dots with glow -->
+  <g filter="url(#dotGlow)">
+    <circle cx="180" cy="45" r="2" fill="#61DAFB" opacity="0.6"/>
+    <circle cx="420" cy="170" r="1.5" fill="#61DAFB" opacity="0.5"/>
+    <circle cx="650" cy="90" r="2" fill="#61DAFB" opacity="0.7"/>
+    <circle cx="550" cy="300" r="1.5" fill="#61DAFB" opacity="0.4"/>
+    <circle cx="1050" cy="120" r="2" fill="#61DAFB" opacity="0.6"/>
+    <circle cx="900" cy="280" r="1.5" fill="#61DAFB" opacity="0.5"/>
+    <circle cx="150" cy="320" r="2" fill="#61DAFB" opacity="0.5"/>
+    <circle cx="350" cy="250" r="1.5" fill="#61DAFB" opacity="0.4"/>
+    <circle cx="1100" cy="60" r="2" fill="#61DAFB" opacity="0.6"/>
+    <circle cx="750" cy="350" r="1.5" fill="#61DAFB" opacity="0.5"/>
+    <circle cx="80" cy="180" r="1.5" fill="#61DAFB" opacity="0.4"/>
+    <circle cx="480" cy="80" r="2" fill="#61DAFB" opacity="0.5"/>
+    <circle cx="1000" cy="200" r="1.5" fill="#61DAFB" opacity="0.6"/>
+    <circle cx="300" cy="360" r="2" fill="#61DAFB" opacity="0.4"/>
+    <circle cx="850" cy="50" r="1.5" fill="#61DAFB" opacity="0.5"/>
+  </g>
+
+  <!-- LEFT SIDE: Name and titles -->
+  <g>
+    <text x="80" y="150" font-family="'Segoe UI', 'Arial', sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" letter-spacing="2">DANIA</text>
+    <text x="80" y="200" font-family="'Segoe UI', 'Arial', sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" letter-spacing="2">SHAGHOURI</text>
+    <text x="80" y="240" font-family="'Segoe UI', 'Arial', sans-serif" font-size="16" fill="#94A3B8" letter-spacing="1">Computer Engineer</text>
+    <text x="80" y="265" font-family="'Segoe UI', 'Arial', sans-serif" font-size="16" fill="#94A3B8" letter-spacing="1">Full-Stack Web Developer</text>
+    <g transform="translate(80, 290)">
+      <text x="0" y="16" font-family="'Courier New', monospace" font-size="16" fill="#61DAFB" filter="url(#neonGlow)">&gt;</text>
+      <text x="20" y="16" font-family="'Courier New', monospace" font-size="14" fill="#94A3B8" font-style="italic">Building software with purpose.</text>
+    </g>
+    <rect x="80" y="210" width="120" height="2" fill="#61DAFB" opacity="0.6" rx="1"/>
+  </g>
+
+  <!-- RIGHT SIDE: Tech badges -->
+  <g transform="translate(780, 110)">
+    <!-- React -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="160" height="70" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1.5" filter="url(#cardShadow)"/>
+      <text x="45" y="35" font-family="'Segoe UI', sans-serif" font-size="22" fill="#61DAFB">⚛</text>
+      <text x="65" y="36" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#FFFFFF">React</text>
+      <text x="45" y="55" font-family="'Courier New', monospace" font-size="11" fill="#94A3B8">UI Library</text>
+    </g>
+    <!-- TypeScript -->
+    <g transform="translate(180, 0)">
+      <rect x="0" y="0" width="160" height="70" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1.5" filter="url(#cardShadow)"/>
+      <rect x="45" y="15" width="26" height="26" rx="4" fill="#3178C6"/>
+      <text x="50" y="35" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">TS</text>
+      <text x="80" y="36" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#FFFFFF">TypeScript</text>
+      <text x="45" y="55" font-family="'Courier New', monospace" font-size="11" fill="#94A3B8">Type Safety</text>
+    </g>
+    <!-- Node.js -->
+    <g transform="translate(0, 90)">
+      <rect x="0" y="0" width="160" height="70" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1.5" filter="url(#cardShadow)"/>
+      <text x="45" y="36" font-family="'Segoe UI', sans-serif" font-size="20" fill="#68A063">⬢</text>
+      <text x="68" y="36" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#FFFFFF">Node.js</text>
+      <text x="45" y="55" font-family="'Courier New', monospace" font-size="11" fill="#94A3B8">Runtime</text>
+    </g>
+    <!-- MongoDB -->
+    <g transform="translate(180, 90)">
+      <rect x="0" y="0" width="160" height="70" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1.5" filter="url(#cardShadow)"/>
+      <text x="45" y="36" font-family="'Segoe UI', sans-serif" font-size="20" fill="#47A248">🍃</text>
+      <text x="68" y="36" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#FFFFFF">MongoDB</text>
+      <text x="45" y="55" font-family="'Courier New', monospace" font-size="11" fill="#94A3B8">Database</text>
+    </g>
+    <!-- Connecting lines -->
+    <g opacity="0.15" stroke="#61DAFB" stroke-width="1">
+      <line x1="160" y1="35" x2="180" y2="35"/>
+      <line x1="160" y1="125" x2="180" y2="125"/>
+      <line x1="80" y1="70" x2="80" y2="90"/>
+      <line x1="260" y1="70" x2="260" y2="90"/>
+    </g>
+  </g>
+
+  <!-- Bottom neon line -->
+  <g filter="url(#lineGlow)">
+    <line x1="80" y1="380" x2="1120" y2="380" stroke="#61DAFB" stroke-width="1.5" opacity="0.8"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g opacity="0.2" stroke="#61DAFB" stroke-width="1.5" fill="none">
+    <polyline points="20,30 20,15 35,15"/>
+    <polyline points="1165,15 1180,15 1180,30"/>
+    <polyline points="20,370 20,385 35,385"/>
+    <polyline points="1165,385 1180,385 1180,370"/>
+  </g>
+
+  <!-- Floating particles -->
+  <g opacity="0.3">
+    <circle cx="620" cy="200" r="1" fill="#61DAFB"/>
+    <circle cx="640" cy="180" r="0.8" fill="#38BDF8"/>
+    <circle cx="660" cy="210" r="1.2" fill="#61DAFB"/>
+    <circle cx="680" cy="190" r="0.7" fill="#38BDF8"/>
+    <circle cx="700" cy="220" r="1" fill="#61DAFB"/>
+    <circle cx="720" cy="185" r="0.9" fill="#38BDF8"/>
+  </g>
+</svg>
